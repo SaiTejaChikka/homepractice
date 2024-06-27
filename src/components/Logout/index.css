@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.login {
+  background-color: #f8fafc;
+  width: 150px;
+  height: 40px;
+  color: #303150;
+  border-radius: 8px;
+  border-style: none;
+}
